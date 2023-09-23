@@ -1,0 +1,379 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", LIGA 1 MAX DARG
+http://darg.site:2082/mayerdick/qqzHdszhP9SR/390275
+#EXTINF:0 type="stream" channelId="-1", CHV HD
+http://190.119.178.46:8000/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Caracol HD
+http://190.119.178.46:8000/play/a064/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ElCanaldelFutbol HD
+http://190.119.178.46:8000/play/a05c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MEGA HD
+http://190.119.178.46:8000/play/a04h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Movistar Plus
+http://190.119.178.46:8000/play/a017/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", RCN HD
+http://190.119.178.46:8000/play/a04c/index.m3u8
+#EXTINF:0 type="stream" channelId="3802", TyC Sports HD
+http://190.119.178.46:8000/play/a05a/index.m3u8
+#EXTINF:0 type="favorites" channelId="2550", ATV HD
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/190201
+#EXTINF:0 type="favorites" channelId="-1" name="ECUADOR | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)" group="Ecuador OP2" logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png", ECUADOR | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/172556
+#EXTINF:0 type="favorites" channelId="-1", MEGA CHILE
+http://177.53.153.21:8001/play/a035/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LATINA |Exclusivo|" group="││ELIMINATORIAS SUDAMERICANAS││⭐" logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png", LATINA |Exclusivo|
+http://proiptvdigic.com:8080/yuu14/qTWAZnYapk9g/222580
+#EXTINF:0 type="favorites" channelId="-1", Unimas
+http://thex.tv:57999/SandraArroyo/qgQC5GIpnH/671
+#EXTINF:0 type="favorites" channelId="-1" name="DIRECTV SPORTS 1 (CHILE)(FHD)" group="⭐️Copa Libertadores/Sudamericana⚽" logo="http://castlempire.site:8080/images/266d34a9d402757dd0a23940d815adab.png", DIRECTV SPORTS 1 (CHILE)(FHD)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176616.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DIRECTV SPORTS 1 (CHILE)(HD)" group="⭐️Copa Libertadores/Sudamericana⚽" logo="http://castlempire.site:8080/images/266d34a9d402757dd0a23940d815adab.png", DIRECTV SPORTS 1 (CHILE)(HD)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176615.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 2 SUR" group="⭐️Copa Libertadores/Sudamericana⚽" logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png", ESPN 2 SUR
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176614.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN SUR" group="⭐️Copa Libertadores/Sudamericana⚽" logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png", ESPN SUR
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176613.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 SUR" group="⭐️Copa Libertadores/Sudamericana⚽" logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png", FOX SPORTS 1 SUR
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176611.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 SUR" group="⭐️Copa Libertadores/Sudamericana⚽" logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png", FOX SPORTS 2 SUR
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176612.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="*ES | Movistar Laliga" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/a2f1368fbe9a33567a9b040b757e615d.png", *ES | Movistar Laliga
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222094.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BRASIL | ESPN HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/12e4a548c36298f67b48c9c7b0fb3549.png", BRASIL | ESPN HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222099.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 1 FHD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 1 FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222697.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 1 FHD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 1 FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222698.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 1 FHD EXTRA" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 1 FHD EXTRA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222695.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 1 FHD EXTRA" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 1 FHD EXTRA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222696.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 1 HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 1 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222693.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 1 HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 1 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222694.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 2 FHD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 2 FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222705.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 2 FHD EXTRA" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 2 FHD EXTRA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222703.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN LALIGA 2 HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png", DAZN LALIGA 2 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222702.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN MOVISTAR 1 FHD EXTRA" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/a4f9387a28e260a473a8f52f2717816e.png", DAZN MOVISTAR 1 FHD EXTRA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222088.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES |  LA Liga FHD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/59e8fd15b19b9826e37f606ee8f3ff73.png", ES |  LA Liga FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222101.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | GOL TV" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/da6b5e75a3f4768e0c42ca828ce46912.jpg", ES | GOL TV
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222102.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | La Liga Smartbank TV opc 2" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/15b57cb04832a670bf08c5d91ad6dad5.png", ES | La Liga Smartbank TV opc 2
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222708.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | LaLigaTV HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/e97d5f8dc40f24391f39795514d6d5c9.png", ES | LaLigaTV HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222079.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | M. LALIGA FHD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/59e8fd15b19b9826e37f606ee8f3ff73.png", ES | M. LALIGA FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222096.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | Movistar La Liga" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/a2f1368fbe9a33567a9b040b757e615d.png", ES | Movistar La Liga
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222095.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | Movistar LaLiga HD" group="**LA LIGA ESPAÑA**⚽", ES | Movistar LaLiga HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222092.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ES | SKY SPORTS LALIGA" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/1b27bb3e847fa9b7befb79d2e48f341e.png", ES | SKY SPORTS LALIGA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222078.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LALIGA HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/6095d332e8d20133bddd04701c6f43d7.png", LALIGA HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222081.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LALIGA HD OPCION 1" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/6095d332e8d20133bddd04701c6f43d7.png", LALIGA HD OPCION 1
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222082.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PT | ELEVEN 1 HD" group="**LA LIGA ESPAÑA**⚽" logo="http://castlempire.site:8080/images/581e0a7932e7c384d5154c9dbea1218c.png", PT | ELEVEN 1 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/222100.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | ESPN HD" group="Argentina" logo="http://castlempire.site:8080/images/d36692f837ecfed4a40fe2d04b24929e.png", AR | ESPN HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184450.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | ESPN SD" group="Argentina" logo="http://castlempire.site:8080/images/d36692f837ecfed4a40fe2d04b24929e.png", AR | ESPN SD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184449.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | ESPN 3 HD" group="Argentina" logo="http://castlempire.site:8080/images/4ec0488832be1e25d81f9a3a7fde66d2.png", AR | ESPN 3 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184454.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | FOX SPORTS 1" group="Argentina" logo="http://castlempire.site:8080/images/2f36adf8b83f9c078bbd23ad429ffc03.png", AR | FOX SPORTS 1
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184455.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | FOX SPORTS 2" group="Argentina" logo="http://castlempire.site:8080/images/2c0fb25c5554e4920dc84c9a319d0ff2.png", AR | FOX SPORTS 2
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184456.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | ESPN PREMIUM HD" group="Argentina" logo="http://castlempire.site:8080/images/f24204cdc5cd7f296f6cbf5f7dcd89a2.png", AR | ESPN PREMIUM HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184462.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | FOX SPORTS PREMIUM SD" group="Argentina" logo="http://castlempire.site:8080/images/f24204cdc5cd7f296f6cbf5f7dcd89a2.png", AR | FOX SPORTS PREMIUM SD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184461.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | TNT SPORTS HD" group="Argentina" logo="http://castlempire.site:8080/images/2ae2b75bbcc8cb0b8a3cbda4ed86fd6c.png", AR | TNT SPORTS HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184465.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AR | TYC SPORTS" group="Argentina" logo="http://castlempire.site:8080/images/40389c101b19de6b0c2e742838f778cb.png", AR | TYC SPORTS
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184458.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DIRECTV SPORTS 2 FHD" group="Argentina" logo="http://castlempire.site:8080/images/041bd9a1090be01c1cd288a925ed0513.png", DIRECTV SPORTS 2 FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/184447.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CH | DIRECTV SPORTS 1" group="Chile" logo="http://castlempire.site:8080/images/499f68ddfbd25dce1fb4d269f8b05926.jpg", CH | DIRECTV SPORTS 1
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170101.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CH | Directv Sports Chile UHD" group="Chile", CH | Directv Sports Chile UHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/171624.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CH | ESPN 2 Chile HD" group="Chile", CH | ESPN 2 Chile HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/171625.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CH | FOX SPORTS 1 FHD" group="Chile" logo="http://castlempire.site:8080/images/307fa2a4b572aed5cee3b8b8af693c5c.png", CH | FOX SPORTS 1 FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170102.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CH | FOX SPORTS-1 HD" group="Chile" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZQShBdlGBKrmzMdLBa2J9Bivzp5AEVZubzBR7dLlgH2iYChgG4bEgOFvfW0oRS0A6SE&usqp=CAU", CH | FOX SPORTS-1 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/171801.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CH | ESPN CHILE" group="Chile" logo="https://www.insidehook.com/wp-content/uploads/2020/10/espn-paywall-logo-e1603373649991.jpg?fit=1181%2C800", CH | ESPN CHILE
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170202.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARGENTINA - LS | FOX SPORTS PREMIUM HD" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", ARGENTINA - LS | FOX SPORTS PREMIUM HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176370.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARGENTINA - LS | TYC SPORTS INTERNACIONAL" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", ARGENTINA - LS | TYC SPORTS INTERNACIONAL
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176369.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BRASIL - LS | PREMIERE 4 HD" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", BRASIL - LS | PREMIERE 4 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176379.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BRASIL - LS | PREMIERE CLUBES HD" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", BRASIL - LS | PREMIERE CLUBES HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176375.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CHILE - LS | TNT SPORTS PREMIUM HD" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", CHILE - LS | TNT SPORTS PREMIUM HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176363.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA - LS | WIN SPORTS + HD OPC 1 (E)" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", COLOMBIA - LS | WIN SPORTS + HD OPC 1 (E)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176385.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ECUADOR - LS | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", ECUADOR - LS | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176388.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ECUADOR - LS | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", ECUADOR - LS | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176390.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PERU - LS | Gol Peru HD" group="**LIGAS DE SUDAMERICA**⚽" logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg", PERU - LS | Gol Peru HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/176396.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="WWW.TONYCASINO.BET -- TNT SPORTS HD" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png", WWW.TONYCASINO.BET -- TNT SPORTS HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170203.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="StarPlay SPORTS FHD" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png", StarPlay SPORTS FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/169262.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="StarPlay SPORTS 1 CHILE HD" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg", StarPlay SPORTS 1 CHILE HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/179131.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="StarPlay SPORTS 2 CHILE HD" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg", StarPlay SPORTS 2 CHILE HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/179132.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TNT Sports 2 - Señal SD" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png", TNT Sports 2 - Señal SD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/171618.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TNT Sports ESTADIO" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/2ae2b75bbcc8cb0b8a3cbda4ed86fd6c.png", TNT Sports ESTADIO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/204807.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TNT Sports HD" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/2ae2b75bbcc8cb0b8a3cbda4ed86fd6c.png", TNT Sports HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/174359.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TNT Sports HD OP2" group="**LIGA CHILENA**⚽" logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png", TNT Sports HD OP2
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170103.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BOLIVIA | TIGO SPORTS 1 (Solo eventos) HD" group="Bolivia" logo="http://castlempire.site:8080/images/49ba25a3d2fe7aefa10e7b33b2c31582.png", BOLIVIA | TIGO SPORTS 1 (Solo eventos) HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/229719.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BOLIVIA | Tigo Sports 3 (Solo eventos)" group="Bolivia" logo="http://castlempire.site:8080/images/e8b7058026fb128f06c284ffb9dd516b.png", BOLIVIA | Tigo Sports 3 (Solo eventos)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/229722.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO | WIN SPORTS + HD OPC 3" group="**LIGA COLOMBIA**⚽" logo="http://castlempire.site:8080/images/9fe63cc4267703bcae59abb531ff22e6.png", CO | WIN SPORTS + HD OPC 3
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170197.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO | WinSports  FHD (L)" group="**LIGA COLOMBIA**⚽" logo="http://castlempire.site:8080/images/614360d1b9309d18b47be08cb5aadc55.jpg", CO | WinSports  FHD (L)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170167.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO | WinSports FHD" group="**LIGA COLOMBIA**⚽" logo="http://castlempire.site:8080/images/27a0c2e8f39a80b75cd6053efb10a90b.png", CO | WinSports FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170191.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO | WinSports HD" group="**LIGA COLOMBIA**⚽" logo="http://castlempire.site:8080/images/99f478d47d2fce632dcc54aa7502093f.png", CO | WinSports HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170187.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN Colombia HD" group="**LIGA COLOMBIA**⚽", ESPN Colombia HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/195861.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES HD | FOX SPORTS PREMIUM MEX" group="**Deportes Mexico**⚽", DEPORTES HD | FOX SPORTS PREMIUM MEX
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/223108.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA_FHD3:Fox Sports 2 MX HD" group="**Deportes Mexico**⚽" logo="http://castlempire.site:8080/images/f90c00c9123a39d1878770151f21a853.jpg", LA_FHD3:Fox Sports 2 MX HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/193217.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="EC | DIRECTV SPORTS SD" group="**LIGA ECUADOR**⚽" logo="http://castlempire.site:8080/images/a9222c00b07f030a16cbd20a5a8b91ad.png", EC | DIRECTV SPORTS SD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170136.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="EC | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)" group="**LIGA ECUADOR**⚽" logo="http://castlempire.site:8080/images/85cc99639a8a8519638a22ca33ee9c84.png", EC | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170162.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="EC | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)" group="**LIGA ECUADOR**⚽" logo="http://castlempire.site:8080/images/85cc99639a8a8519638a22ca33ee9c84.png", EC | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170163.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="EC | GOL TV HD" group="**LIGA ECUADOR**⚽" logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg", EC | GOL TV HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170161.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="EC | GOLTV ECUADOR HD" group="**LIGA ECUADOR**⚽" logo="http://castlempire.site:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png", EC | GOLTV ECUADOR HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170160.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Directv Sports 2 Peru" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/a9222c00b07f030a16cbd20a5a8b91ad.png", PE | Directv Sports 2 Peru
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170112.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Espn 2 Peru" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/9b229d23bd7f92559f40790bb9f0449d.png", PE | Espn 2 Peru
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170115.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Espn 3 Peru" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png", PE | Espn 3 Peru
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170116.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Fox Sports 2 Peru" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/1314d4c37fd8fe8a3b175d3f784949a5.png", PE | Fox Sports 2 Peru
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170119.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Fox Sports 3 Peru" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/e758968361c4eb53a63cd2630a04fbfd.png", PE | Fox Sports 3 Peru
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170120.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Gol Peru" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png", PE | Gol Peru
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170121.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Gol Peru HD" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png", PE | Gol Peru HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170122.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE | Movistar Deportes HD" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/7bc29276bbbfa1842a92925d9a3ff28f.png", PE | Movistar Deportes HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/170127.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DIRECTV SPORTS | 2 (PE) HD" group="**LIGA PERU**⚽", DIRECTV SPORTS | 2 (PE) HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/243761.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DIRECTV SPORTS | PLUS (PE)" group="**LIGA PERU**⚽", DIRECTV SPORTS | PLUS (PE)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/243762.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PERU : Liga 1 MAX (1920) (EXCLUSIVO)" group="**LIGA PERU**⚽" logo="http://castlempire.site:8080/images/fa16a32fff5cfd974c0e0c860473a7f8.png", PERU : Liga 1 MAX (1920) (EXCLUSIVO)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/247397.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ADRENALINA SPORTS" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/af0f7531535b4c4745841de35c70a786.png", ADRENALINA SPORTS
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281576.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BEIN SPORTS XTRA Ñ" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/521c2fc644ea3c4b328c9e5e55bc4f9d.png", BEIN SPORTS XTRA Ñ
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281580.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="BEIN SPORTS Ñ" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/ecd3636d82fa77cdbe8937f968b13f2f.png", BEIN SPORTS Ñ
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281581.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX DEPORTES HD" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX DEPORTES HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281610.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SOCCER PLUS HD" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/1027388bbc361ba563446ea2cfca612a.png", FOX SOCCER PLUS HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281612.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 | ARGENTINA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 1 | ARGENTINA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281613.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 | BRASIL" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 1 | BRASIL
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281614.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 | COLOMBIA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 1 | COLOMBIA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281616.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 1 | MEXICO" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 1 | MEXICO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281617.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 | CHILE" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 2 | CHILE
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281622.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 | COLOMBIA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 2 | COLOMBIA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281623.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 | MEXICO" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 2 | MEXICO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281624.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 2 | USA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 2 | USA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281626.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 3 | ARGENTINA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 3 | ARGENTINA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281627.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 3 | CHILE" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 3 | CHILE
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281628.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 3 | COLOMBIA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 3 | COLOMBIA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281629.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 3 | MEXICO" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 3 | MEXICO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281630.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS 3 | PERU" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS 3 | PERU
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281631.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS | PREMIUM" group="**DEPORTES HD-OP3**⚽" logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234", FOX SPORTS | PREMIUM
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281632.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS | PREMIUM" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/a9f7b586791f6709fc3213960b36ab2d.png", FOX SPORTS | PREMIUM
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281633.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="FOX SPORTS | RACING USA FHD" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png", FOX SPORTS | RACING USA FHD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281634.m3u8
+#EXTINF:0 type="favorites" channelId="1686" name="GOL TV" group="**DEPORTES HD-OP3**⚽" logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1321", GOL TV
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281635.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="GOL TV LATINOAMERICA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/9d598fee4121141ca29d590e7e65c2ab.png", GOL TV LATINOAMERICA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281636.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="GOL TV USA" group="**DEPORTES HD-OP3**⚽" logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest/scale-to-width-down/185?cb=20200105205809&path-prefix=es", GOL TV USA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281637.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIERE 1 CLUBES" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/4ffd79faf111a100ef894d2b6680bcdf.png", PREMIERE 1 CLUBES
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281678.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="SKY SPORTS LA LIGA" group="**DEPORTES HD-OP3**⚽" logo="http://castlempire.site:8080/images/05f4fdddd91c95d8824f0824f100eba0.png", SKY SPORTS LA LIGA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281690.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TENNIS CHANNEL HD" group="**DEPORTES HD-OP3**⚽", TENNIS CHANNEL HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/281700.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 1 | ARGENTINA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 1 | ARGENTINA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241092.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 1 | COLOMBIA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 1 | COLOMBIA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241093.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 1 | LATINOAMERICA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 1 | LATINOAMERICA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241094.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 1 | MEXICO" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 1 | MEXICO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241095.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 1 | PERU" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 1 | PERU
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241096.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 2 | ARGENTINA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 2 | ARGENTINA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241097.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 2 | COLOMBIA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 2 | COLOMBIA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241098.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 2 | HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 2 | HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241099.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 2 | MEXICO" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 2 | MEXICO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241100.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 2 | PERU" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 2 | PERU
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241101.m3u8
+#EXTINF:0 type="favorites" channelId="357" name="ESPN 3 (ARG) HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 (ARG) HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241102.m3u8
+#EXTINF:0 type="favorites" channelId="357" name="ESPN 3 (COL) HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 (COL) HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241103.m3u8
+#EXTINF:0 type="favorites" channelId="357" name="ESPN 3 (MEX) HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 (MEX) HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241104.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 3 ARG HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 ARG HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241105.m3u8
+#EXTINF:0 type="favorites" channelId="357" name="ESPN 3 HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241106.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 3 | ARGENTINA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 | ARGENTINA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241107.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 3 | COLOMBIA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 | COLOMBIA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241108.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 3 | MEXICO" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 | MEXICO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241110.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 3 | PERU" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 3 | PERU
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241111.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 4 | ARGENTINA" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 4 | ARGENTINA
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241112.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 4 | ARGENTINA -" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 4 | ARGENTINA -
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241113.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 4 | HD" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 4 | HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241114.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN 4 | SUR ®" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN 4 | SUR ®
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241115.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN | EXTRA ARG" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN | EXTRA ARG
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241116.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN | EXTRA ARG -" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN | EXTRA ARG -
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241117.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN | EXTRA MX" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN | EXTRA MX
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241118.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN | EXTRA MX -" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN | EXTRA MX -
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241119.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN | PREMIUM ARG" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN | PREMIUM ARG
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241121.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ESPN | PREMIUM ARG -" group="**PACK ESPN**⚽" logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png", ESPN | PREMIUM ARG -
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/241122.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="******⭐EVENTOS STAR +⭐******" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/2407e93119e362632ec5406b6aa7fbd3.png", ******⭐EVENTOS STAR +⭐******
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/247349.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 1 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 1 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310240.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 2 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 2 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310241.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 3 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 3 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310242.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 4 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 4 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310243.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 5 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 5 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310244.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 6 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 6 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310245.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 7 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 7 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310246.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="STAR+ 8 (SOLO EVENTOS)" group="**PACK STAR+**⚽ Eventos Diarios" logo="http://castlempire.site:8080/images/8ff953dd97c4405234a04291dee39e0b.jpeg", STAR+ 8 (SOLO EVENTOS)
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/310247.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: DirecTV Sports+" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/fde1e2daff6e4d9217ea5ec43e863fd1.png" country="ar",  DirecTV Sports+
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304323.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="EC: Direct" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/f6970d1f307415d5628114b1c53921cf.png" country="ec",  Direct
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304328.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS ARGENTINA HD" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS ARGENTINA HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304330.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS COLOMBIA HD" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS COLOMBIA HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304332.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS + ARGENTINA HD" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS + ARGENTINA HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304333.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS + COLOMBIA HD" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS + COLOMBIA HD
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304334.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS AR" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS AR
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304335.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS 2 AR" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/96750b299a613ff22da112364706897a.png" country="la",  DIRECTV SPORTS 2 AR
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304336.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS CH" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS CH
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304337.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS EC" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS EC
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304338.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS PLUS EC" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/522748524ad010358705b6852b81be4c.png" country="la",  DIRECTV SPORTS PLUS EC
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304339.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS CO" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS CO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304340.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS 2 CO" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/96750b299a613ff22da112364706897a.png" country="la",  DIRECTV SPORTS 2 CO
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304341.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS URU" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS URU
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304342.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV Sports Per" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV Sports Per
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304343.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV eventos 4" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/e77989ed21758e78331b20e477fc5582.png" country="la",  DIRECTV eventos 4
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304347.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV eventos 5" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/e77989ed21758e78331b20e477fc5582.png" country="la",  DIRECTV eventos 5
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304348.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV eventos 6" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/e77989ed21758e78331b20e477fc5582.png" country="la",  DIRECTV eventos 6
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304349.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV MULTI P" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/cc7c36759cf8c14d8db22e8a10c47feb.png" country="la",  DIRECTV MULTI P
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304350.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="SUR: Direct 2" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/df85dee9316e5c9d6d6b5a4c4a2c6e25.png" country="sr",  Direct 2
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304353.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="SUR: Direct" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/6f9c098cea80dde366e2b8cb0e06ad1a.png" country="sr",  Direct
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304352.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV SPORTS URU" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/97426ff550abe530c82d7f2361f8721c.png" country="la",  DIRECTV SPORTS URU
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304363.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV eventos 1" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/e77989ed21758e78331b20e477fc5582.png" country="la",  DIRECTV eventos 1
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304365.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DIRECTV eventos 2" group="**PACK DIRECTV SPORTS**⚽" logo="http://castlempire.site:8080/images/e77989ed21758e78331b20e477fc5582.png" country="la",  DIRECTV eventos 2
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/304366.m3u8
