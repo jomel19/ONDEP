@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", LIGA 1 MAX DARG
-http://darg.site:2082/mayerdick/qqzHdszhP9SR/390275
 #EXTINF:0 type="stream" channelId="-1", CHV HD
 http://190.119.178.46:8000/play/a03h/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Caracol HD
